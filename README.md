@@ -4,9 +4,11 @@ Analyzing Call Center Data for Performance Optimization.
 ## Introduction
 This project aimed to analyze call center data to identify patterns, trends, and areas for improvement to enhance overall performance and customer satisfaction. By leveraging data-driven insights, the aim was to optimize call-handling processes, reduce wait times, increase first-call resolution rates, and ultimately improve the efficiency and effectiveness of call center operations.
 
+![Call Center Dasboard](https://github.com/Horlzy/Organisation-Call-Center/assets/74312225/63b60928-8e39-4f9a-91b3-45c97bf7125f)
+
 
 ## Data Sources
-The primary dataset used for this analysis is the "Excel Data Set.xlsx" file, containing detailed information on calls in 2020.
+The primary dataset used for this analysis is the ["Excel Data Set.xlsx"]() file, containing detailed information on calls in 2020.
 
 ## Tools Utilized
 Excel
