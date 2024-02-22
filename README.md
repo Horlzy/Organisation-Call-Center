@@ -8,21 +8,22 @@ This project aimed to analyze call center data to identify patterns, trends, and
 
 
 ## Data Sources
-The primary dataset used for this analysis is the ["Excel Data Set.xlsx"]() file, containing detailed information on calls in 2020.
+The primary dataset used for this analysis is the ["Excel Data Set.xlsx"](https://github.com/Horlzy/Organisation-Call-Center/blob/main/Call%20Center.xlsx) file, containing detailed information on calls in 2020.
 
-## Tools Utilized
+## Tool Utilised
 Excel
-Data Cleaning
-Data Analysis
-Visualization
+- Data Cleaning
+- Data Analysis
+- Visualization
 
 ## Data Cleaning/Preparation
 In the data preparation phase, tasks included:
-Removing duplicates.
-Handling missing values.
-Cleaning and formatting values.
+ - Removing duplicates.
+ - Handling missing values.
+ - Cleaning and formatting values.
 
 ## Exploratory Data Analysis (EDA)
+EDA process of this project involved exploring the data to answer critical questions, such as:
 1. Overall Response Time: Understanding the distribution of response times across all calls to assess efficiency and adherence to service level agreements (SLAs).
 2. Reasons for Calls: Analyzing the primary reasons customers contact the call center to identify common issues or concerns.
 3. States with the Highest Inbound: Identifying states with the highest volume of inbound calls to understand geographical demand patterns and potential regional disparities.
@@ -31,8 +32,8 @@ Cleaning and formatting values.
 
 ## Data Analysis
 Data analysis was performed in Excel, utilizing Pivot tables and formulas such as:
-Getpivotdata()
-IfError()
+ - Getpivotdata()
+ - IfError()
 
 ## Findings
 1. Overall Response Time:
